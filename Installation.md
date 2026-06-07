@@ -1,7 +1,7 @@
 
-# 🧠Memory Card Game
+# 🧠Zombiecide
 
-Welcome to the **Memory Card Game**! This is a console-based puzzle game written in C, where your goal is to find matching pairs of numbers on the board.  
+Welcome to the **Zombiecide** game! This is a console-based puzzle game written in C, where your goal is to find matching pairs of numbers on the board.  
 
 
 ## 📥 Download
@@ -54,13 +54,13 @@ Open your terminal (CMD or PowerShell) inside the folder where you saved Memory_
 
 🔹 If using PowerShell:
 ```powershell
-gcc Memory_Card_Game.c -o Memory_Card_Game.exe
-./Memory_Card_Game.exe
+gcc project.c -o project.exe
+./project.exe
 ```
 🔹 If using CMD:
 ```cmd
-gcc Memory_Card_Game.c -o Memory_Card_Game.exe
-Memory_Card_Game.exe
+gcc project.c -o project.exe
+project.exe
 ```
 
 ## 🐧 Installation Guide (Linux)
@@ -94,8 +94,8 @@ gcc --version
 
 Navigate to the folder where you downloaded Memory_Card_Game.c and run the following commands:
 ```bash
-gcc Memory_Card_Game.c -o Memory_Card_Game
-./Memory_Card_Game
+gcc zombiecide.c -o zombiecide
+./zombiecide
 ```
 ## 🍎 Installation Guide (macOS)
 
