@@ -1,17 +1,9 @@
-/*DORWTHEOS KOUGIAS
-AM: 2022202500064
-dit25064@go.uop.gr
-
-VASILHS VARTHOLOMAIOS
-AM: 2022202500064
-dit25175@go.uop.gr
-*/
 
 /*
  * =============================================================
  * TITLE:               Zombiecide
  * VERSION:             1.0.0
- * CONTRIBUTING DEVELOPERS: Vasilhs Vartholomaios - Dorothews Kougias
+ * CONTRIBUTING DEVELOPERS: Vasilhs Vartholomaios
  * ALBUM:               Project Game
  * DATE COMPILED:       02-05-2026
  * =============================================================
